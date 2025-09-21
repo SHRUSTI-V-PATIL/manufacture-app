@@ -1,0 +1,244 @@
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:04:08.319Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T08:04:08.327Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T08:04:08.328Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:05:45.188Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T08:05:45.191Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T08:05:45.191Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:12:43.497Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T08:12:43.502Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T08:12:43.502Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:12:59.342Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T08:12:59.348Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T08:12:59.349Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:13:05.399Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T08:13:05.405Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T08:13:05.406Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:16:24.267Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T08:16:24.273Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T08:16:24.273Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:22:44.226Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:23:02.717Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:23:10.841Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:27:28.928Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T08:27:28.936Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T08:27:28.937Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T08:27:28.937Z"}
+{"level":"info","message":"Client connected: f5ZyBDFhx8b2aqHmAAAE","service":"manufacturing-management","timestamp":"2025-09-20T09:09:33.828Z"}
+{"level":"info","message":"Client disconnected: f5ZyBDFhx8b2aqHmAAAE","service":"manufacturing-management","timestamp":"2025-09-20T09:09:43.497Z"}
+{"level":"info","message":"Client connected: Ym2YzRCmiJzyMNpcAAAH","service":"manufacturing-management","timestamp":"2025-09-20T09:09:45.436Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T09:49:18.366Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T09:49:18.367Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T09:49:18.375Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T09:49:18.376Z"}
+{"level":"info","message":"Client connected: VwDfZNx6KZLuNki_AAAB","service":"manufacturing-management","timestamp":"2025-09-20T09:49:20.595Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:07:17.972Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T12:07:17.981Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T12:07:17.981Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:12:59.101Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:15:52.269Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:16:09.358Z"}
+{"level":"info","message":"Client connected: 5-8EWCArEb0PfdwNAAAC","service":"manufacturing-management","timestamp":"2025-09-20T12:17:12.963Z"}
+{"level":"info","message":"Client connected: fYNIE8vdoYkcZWxaAAAF","service":"manufacturing-management","timestamp":"2025-09-20T12:17:26.028Z"}
+{"level":"info","message":"Client disconnected: 5-8EWCArEb0PfdwNAAAC","service":"manufacturing-management","timestamp":"2025-09-20T12:37:44.856Z"}
+{"level":"info","message":"Client disconnected: fYNIE8vdoYkcZWxaAAAF","service":"manufacturing-management","timestamp":"2025-09-20T12:37:45.634Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:40:13.028Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:40:59.815Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:42:09.737Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:42:26.900Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:42:56.668Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:43:48.726Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:44:17.620Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:44:39.477Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:46:32.228Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:47:25.796Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:49:21.108Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T12:58:02.213Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T13:03:02.245Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T13:07:28.746Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T13:22:21.302Z"}
+{"level":"info","message":"Client connected: jOUWusmJGM90zoWGAAAM","service":"manufacturing-management","timestamp":"2025-09-20T13:24:40.540Z"}
+{"level":"info","message":"Client connected: nBM7t_ADMY0Ok2UgAAAP","service":"manufacturing-management","timestamp":"2025-09-20T13:24:48.855Z"}
+{"level":"info","message":"Client connected: 4isxXNG8oKTg3lTrAAAS","service":"manufacturing-management","timestamp":"2025-09-20T13:39:32.606Z"}
+{"level":"info","message":"Client disconnected: jOUWusmJGM90zoWGAAAM","service":"manufacturing-management","timestamp":"2025-09-20T15:25:22.929Z"}
+{"level":"info","message":"Client disconnected: nBM7t_ADMY0Ok2UgAAAP","service":"manufacturing-management","timestamp":"2025-09-20T15:25:23.606Z"}
+{"level":"info","message":"Client disconnected: 4isxXNG8oKTg3lTrAAAS","service":"manufacturing-management","timestamp":"2025-09-20T15:25:23.628Z"}
+{"level":"info","message":"Client connected: qSU3ftRMrDRBGG9fAAAX","service":"manufacturing-management","timestamp":"2025-09-20T15:46:58.904Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.051Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.070Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.072Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.062Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.109Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.131Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.160Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.166Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:17.182Z"}
+{"level":"info","message":"Client connected: X3pdWZbaK8Br8ZiCAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:06:18.132Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:06:35.101Z"}
+{"level":"info","message":"Client disconnected: X3pdWZbaK8Br8ZiCAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:06:35.208Z"}
+{"level":"info","message":"Client connected: 4RATXZ5ZFx6IMzW8AAAE","service":"manufacturing-management","timestamp":"2025-09-20T16:06:37.946Z"}
+{"level":"info","message":"Client disconnected: 4RATXZ5ZFx6IMzW8AAAE","service":"manufacturing-management","timestamp":"2025-09-20T16:06:47.385Z"}
+{"level":"info","message":"Client connected: YcUYGRTc8evxZ40RAAAH","service":"manufacturing-management","timestamp":"2025-09-20T16:06:49.275Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.657Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.679Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.680Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.719Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.792Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.809Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.986Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:10.996Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:11.021Z"}
+{"level":"info","message":"Client connected: DQTmsmfENV0T33QgAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:07:11.610Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.721Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.737Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.738Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.743Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.763Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.780Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.788Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.806Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.827Z"}
+{"level":"info","message":"Client connected: sc0xMLckrz-HY4ZWAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:07:37.977Z"}
+{"level":"info","message":"Client disconnected: sc0xMLckrz-HY4ZWAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:07:43.463Z"}
+{"level":"info","message":"Client connected: cdi3EYR2pBs9OeigAAAE","service":"manufacturing-management","timestamp":"2025-09-20T16:07:45.476Z"}
+{"level":"info","message":"Client disconnected: cdi3EYR2pBs9OeigAAAE","service":"manufacturing-management","timestamp":"2025-09-20T16:08:26.105Z"}
+{"level":"info","message":"Client connected: NIYMFdCY0Gt7DF2iAAAH","service":"manufacturing-management","timestamp":"2025-09-20T16:08:29.534Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.095Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.135Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.136Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.305Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.504Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.542Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.635Z"}
+{"level":"info","message":"Client connected: TMDx3n_q5mReClnFAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.648Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:08:58.687Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:09:03.745Z"}
+{"level":"info","message":"Client disconnected: TMDx3n_q5mReClnFAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:09:06.678Z"}
+{"level":"info","message":"Client connected: KqFRoaTucgSmSBTrAAAE","service":"manufacturing-management","timestamp":"2025-09-20T16:09:11.346Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-20T16:53:21.267Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-20T16:53:21.277Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-20T16:53:21.278Z"}
+{"level":"info","message":"Client connected: FoZJA4iNPc37IDITAAAB","service":"manufacturing-management","timestamp":"2025-09-20T16:53:27.659Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T00:36:32.016Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-21T00:36:32.026Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-21T00:36:32.026Z"}
+{"level":"info","message":"Client connected: 9sQcf-pAmdZZvGtJAAAC","service":"manufacturing-management","timestamp":"2025-09-21T00:36:59.042Z"}
+{"level":"info","message":"Client disconnected: 9sQcf-pAmdZZvGtJAAAC","service":"manufacturing-management","timestamp":"2025-09-21T00:40:19.644Z"}
+{"level":"info","message":"Client connected: x5xqRQMWLDigSLzWAAAG","service":"manufacturing-management","timestamp":"2025-09-21T00:40:19.772Z"}
+{"level":"info","message":"Client disconnected: x5xqRQMWLDigSLzWAAAG","service":"manufacturing-management","timestamp":"2025-09-21T00:40:19.865Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T00:40:56.611Z"}
+{"level":"info","message":"Client connected: HcXWqcpIhjS3HgxOAAAJ","service":"manufacturing-management","timestamp":"2025-09-21T00:43:06.210Z"}
+{"level":"info","message":"Client disconnected: HcXWqcpIhjS3HgxOAAAJ","service":"manufacturing-management","timestamp":"2025-09-21T00:43:06.262Z"}
+{"level":"info","message":"Client connected: pNMmVmHudPjGwDeKAAAM","service":"manufacturing-management","timestamp":"2025-09-21T00:43:10.149Z"}
+{"level":"info","message":"Client disconnected: pNMmVmHudPjGwDeKAAAM","service":"manufacturing-management","timestamp":"2025-09-21T00:43:10.165Z"}
+{"level":"info","message":"Client connected: GKu25Xnv9LROPExcAAAP","service":"manufacturing-management","timestamp":"2025-09-21T00:43:18.336Z"}
+{"level":"info","message":"Client disconnected: GKu25Xnv9LROPExcAAAP","service":"manufacturing-management","timestamp":"2025-09-21T00:43:18.342Z"}
+{"level":"info","message":"Client connected: VBvOWvUUeKB8h7RFAAAS","service":"manufacturing-management","timestamp":"2025-09-21T00:43:21.845Z"}
+{"level":"info","message":"Client disconnected: VBvOWvUUeKB8h7RFAAAS","service":"manufacturing-management","timestamp":"2025-09-21T00:43:21.867Z"}
+{"level":"info","message":"Client connected: ZNTVB05w6-X6hgEeAAAV","service":"manufacturing-management","timestamp":"2025-09-21T00:43:25.348Z"}
+{"level":"info","message":"Client disconnected: ZNTVB05w6-X6hgEeAAAV","service":"manufacturing-management","timestamp":"2025-09-21T00:43:25.366Z"}
+{"level":"info","message":"Client connected: 8X1B6mYIy646l-8uAAAY","service":"manufacturing-management","timestamp":"2025-09-21T00:44:46.624Z"}
+{"level":"info","message":"Client disconnected: 8X1B6mYIy646l-8uAAAY","service":"manufacturing-management","timestamp":"2025-09-21T00:44:46.639Z"}
+{"level":"info","message":"Client connected: _u-pT_pLpunkoq-AAAAb","service":"manufacturing-management","timestamp":"2025-09-21T00:45:09.888Z"}
+{"level":"info","message":"Client disconnected: _u-pT_pLpunkoq-AAAAb","service":"manufacturing-management","timestamp":"2025-09-21T00:45:09.901Z"}
+{"level":"info","message":"Client connected: 8z3m5UM-EEhIHJBIAAAe","service":"manufacturing-management","timestamp":"2025-09-21T00:47:32.539Z"}
+{"level":"info","message":"Client disconnected: 8z3m5UM-EEhIHJBIAAAe","service":"manufacturing-management","timestamp":"2025-09-21T00:47:32.554Z"}
+{"level":"info","message":"Client connected: sHe7Spb9Ba9e75qRAAAh","service":"manufacturing-management","timestamp":"2025-09-21T00:47:35.567Z"}
+{"level":"info","message":"Client disconnected: sHe7Spb9Ba9e75qRAAAh","service":"manufacturing-management","timestamp":"2025-09-21T00:47:35.585Z"}
+{"level":"info","message":"Client connected: cNgWzD8VnmI3nfmBAAAk","service":"manufacturing-management","timestamp":"2025-09-21T00:48:01.769Z"}
+{"level":"info","message":"Client disconnected: cNgWzD8VnmI3nfmBAAAk","service":"manufacturing-management","timestamp":"2025-09-21T00:48:01.787Z"}
+{"level":"info","message":"Client connected: pYstgW_BxI8DxE0pAAAn","service":"manufacturing-management","timestamp":"2025-09-21T00:52:24.907Z"}
+{"level":"info","message":"Client disconnected: pYstgW_BxI8DxE0pAAAn","service":"manufacturing-management","timestamp":"2025-09-21T00:52:24.926Z"}
+{"level":"info","message":"Client connected: rTzdp9LlX35pn0isAAAq","service":"manufacturing-management","timestamp":"2025-09-21T00:53:18.859Z"}
+{"level":"info","message":"Client disconnected: rTzdp9LlX35pn0isAAAq","service":"manufacturing-management","timestamp":"2025-09-21T00:53:18.881Z"}
+{"level":"info","message":"Client connected: HKFHJr64OMw84iTvAAAt","service":"manufacturing-management","timestamp":"2025-09-21T00:53:31.121Z"}
+{"level":"info","message":"Client disconnected: HKFHJr64OMw84iTvAAAt","service":"manufacturing-management","timestamp":"2025-09-21T00:53:31.138Z"}
+{"level":"info","message":"Client connected: mGvlIjOcTlJuO7vNAAAw","service":"manufacturing-management","timestamp":"2025-09-21T00:56:09.068Z"}
+{"level":"info","message":"Client disconnected: mGvlIjOcTlJuO7vNAAAw","service":"manufacturing-management","timestamp":"2025-09-21T00:56:09.081Z"}
+{"level":"info","message":"Client connected: kg53EKEmIL8lJ8XlAAAz","service":"manufacturing-management","timestamp":"2025-09-21T00:56:39.910Z"}
+{"level":"info","message":"Client disconnected: kg53EKEmIL8lJ8XlAAAz","service":"manufacturing-management","timestamp":"2025-09-21T00:56:43.909Z"}
+{"level":"info","message":"Client connected: LIiAaoCuYECphI60AAA2","service":"manufacturing-management","timestamp":"2025-09-21T00:56:44.233Z"}
+{"level":"info","message":"Client disconnected: LIiAaoCuYECphI60AAA2","service":"manufacturing-management","timestamp":"2025-09-21T00:56:48.180Z"}
+{"level":"info","message":"Client connected: 6n0Q2ujVr301zbgWAAA5","service":"manufacturing-management","timestamp":"2025-09-21T00:56:50.967Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T00:59:09.586Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T00:59:09.588Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-21T00:59:09.592Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-21T00:59:09.593Z"}
+{"level":"info","message":"Client connected: G8nA3rH0Q04AMoZWAAAB","service":"manufacturing-management","timestamp":"2025-09-21T00:59:11.631Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T00:59:19.222Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-21T00:59:19.232Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-21T00:59:19.233Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T00:59:19.276Z"}
+{"level":"info","message":"Client connected: ekI9h09LKDCGhKUaAAAB","service":"manufacturing-management","timestamp":"2025-09-21T00:59:21.625Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T00:59:53.975Z"}
+{"level":"info","message":"Client connected: 37dtTHgVG6nECKh0AAAE","service":"manufacturing-management","timestamp":"2025-09-21T01:00:54.426Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T01:11:52.611Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-21T01:11:52.615Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-21T01:11:52.616Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T03:09:55.087Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T04:13:43.623Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-21T04:13:43.629Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-21T04:13:43.629Z"}
+{"level":"info","message":"Client connected: hqup2EPqYgoP3wKxAAAC","service":"manufacturing-management","timestamp":"2025-09-21T04:13:51.086Z"}
+{"level":"info","message":"Client disconnected: hqup2EPqYgoP3wKxAAAC","service":"manufacturing-management","timestamp":"2025-09-21T04:13:51.223Z"}
+{"level":"info","message":"Client connected: e7FACpLgd7qghLgSAAAF","service":"manufacturing-management","timestamp":"2025-09-21T04:13:53.540Z"}
+{"level":"info","message":"Client disconnected: e7FACpLgd7qghLgSAAAF","service":"manufacturing-management","timestamp":"2025-09-21T04:13:53.582Z"}
+{"level":"info","message":"Client connected: yggvMdl13GPVHdzaAAAI","service":"manufacturing-management","timestamp":"2025-09-21T04:13:55.846Z"}
+{"level":"info","message":"Client disconnected: yggvMdl13GPVHdzaAAAI","service":"manufacturing-management","timestamp":"2025-09-21T04:13:55.881Z"}
+{"level":"info","message":"Client connected: ZIEJ2nZ4hs5CPVGOAAAL","service":"manufacturing-management","timestamp":"2025-09-21T04:13:58.022Z"}
+{"level":"info","message":"Client disconnected: ZIEJ2nZ4hs5CPVGOAAAL","service":"manufacturing-management","timestamp":"2025-09-21T04:13:58.085Z"}
+{"level":"info","message":"Client connected: uq8cjgKu70FrJqgGAAAN","service":"manufacturing-management","timestamp":"2025-09-21T04:14:01.246Z"}
+{"level":"info","message":"Client disconnected: uq8cjgKu70FrJqgGAAAN","service":"manufacturing-management","timestamp":"2025-09-21T04:14:01.336Z"}
+{"level":"info","message":"Client connected: sxSB8NWaHkWTCVG-AAAP","service":"manufacturing-management","timestamp":"2025-09-21T04:14:04.761Z"}
+{"level":"info","message":"Client disconnected: sxSB8NWaHkWTCVG-AAAP","service":"manufacturing-management","timestamp":"2025-09-21T04:14:04.839Z"}
+{"level":"info","message":"Client connected: oeGw5v8fKhYzLn2AAAAS","service":"manufacturing-management","timestamp":"2025-09-21T04:14:06.098Z"}
+{"level":"info","message":"Client disconnected: oeGw5v8fKhYzLn2AAAAS","service":"manufacturing-management","timestamp":"2025-09-21T04:14:06.142Z"}
+{"level":"info","message":"Client connected: rnTMDTxwJEs1woiaAAAV","service":"manufacturing-management","timestamp":"2025-09-21T04:14:07.942Z"}
+{"level":"info","message":"Client disconnected: rnTMDTxwJEs1woiaAAAV","service":"manufacturing-management","timestamp":"2025-09-21T04:14:07.994Z"}
+{"level":"info","message":"Client connected: klyzci94Vp5puAQdAAAX","service":"manufacturing-management","timestamp":"2025-09-21T04:14:10.247Z"}
+{"level":"info","message":"Client disconnected: klyzci94Vp5puAQdAAAX","service":"manufacturing-management","timestamp":"2025-09-21T04:14:10.333Z"}
+{"level":"info","message":"Client connected: KRMdyZZy7BrLAjO-AAAa","service":"manufacturing-management","timestamp":"2025-09-21T04:14:12.080Z"}
+{"level":"info","message":"Client disconnected: KRMdyZZy7BrLAjO-AAAa","service":"manufacturing-management","timestamp":"2025-09-21T04:14:12.124Z"}
+{"level":"info","message":"Client connected: Dk8GZBKOCUo-AOWDAAAd","service":"manufacturing-management","timestamp":"2025-09-21T04:15:06.785Z"}
+{"level":"info","message":"Client disconnected: Dk8GZBKOCUo-AOWDAAAd","service":"manufacturing-management","timestamp":"2025-09-21T04:15:06.831Z"}
+{"level":"info","message":"Client connected: 14vQQiCkiVA_ey7SAAAg","service":"manufacturing-management","timestamp":"2025-09-21T04:15:10.299Z"}
+{"level":"info","message":"Client disconnected: 14vQQiCkiVA_ey7SAAAg","service":"manufacturing-management","timestamp":"2025-09-21T04:15:10.321Z"}
+{"level":"info","message":"Client connected: w9pg0tNQmflUUhD6AAAj","service":"manufacturing-management","timestamp":"2025-09-21T04:15:14.025Z"}
+{"level":"info","message":"Client disconnected: w9pg0tNQmflUUhD6AAAj","service":"manufacturing-management","timestamp":"2025-09-21T04:15:14.055Z"}
+{"level":"info","message":"Client connected: 4C4Xt8pco4S46yHNAAAm","service":"manufacturing-management","timestamp":"2025-09-21T04:15:17.005Z"}
+{"level":"info","message":"Client disconnected: 4C4Xt8pco4S46yHNAAAm","service":"manufacturing-management","timestamp":"2025-09-21T04:15:17.019Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T04:15:39.579Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-21T04:15:39.587Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-21T04:15:39.587Z"}
+{"level":"info","message":"Client connected: k5QTKytDsr8sBYmIAAAC","service":"manufacturing-management","timestamp":"2025-09-21T04:15:52.863Z"}
+{"level":"info","message":"Client disconnected: k5QTKytDsr8sBYmIAAAC","service":"manufacturing-management","timestamp":"2025-09-21T04:15:53.032Z"}
+{"level":"info","message":"Client connected: qoFg2OjHQQ2jk-rCAAAF","service":"manufacturing-management","timestamp":"2025-09-21T04:17:59.251Z"}
+{"level":"info","message":"Client connected: HC24QFy_1T3EXqeyAAAI","service":"manufacturing-management","timestamp":"2025-09-21T04:18:02.509Z"}
+{"level":"info","message":"Client connected: 1D-i8qw04fXY7_WyAAAL","service":"manufacturing-management","timestamp":"2025-09-21T04:18:05.111Z"}
+{"level":"info","message":"Client connected: Knk7tR4X4ok2evv_AAAO","service":"manufacturing-management","timestamp":"2025-09-21T04:18:06.738Z"}
+{"level":"info","message":"Client connected: 9MH7-z2LEAWYJ-L-AAAR","service":"manufacturing-management","timestamp":"2025-09-21T04:18:07.870Z"}
+{"level":"info","message":"Client disconnected: 9MH7-z2LEAWYJ-L-AAAR","service":"manufacturing-management","timestamp":"2025-09-21T04:18:23.122Z"}
+{"level":"info","message":"Client connected: eVPybQTyO30lTmlkAAAU","service":"manufacturing-management","timestamp":"2025-09-21T04:18:23.606Z"}
+{"level":"info","message":"Client disconnected: eVPybQTyO30lTmlkAAAU","service":"manufacturing-management","timestamp":"2025-09-21T04:18:25.184Z"}
+{"level":"info","message":"Client connected: 5pak4ID9fEPmtytPAAAX","service":"manufacturing-management","timestamp":"2025-09-21T04:18:28.453Z"}
+{"level":"info","message":"Client disconnected: 5pak4ID9fEPmtytPAAAX","service":"manufacturing-management","timestamp":"2025-09-21T04:18:28.510Z"}
+{"level":"info","message":"Client connected: ALyJInK6HMp044LvAAAa","service":"manufacturing-management","timestamp":"2025-09-21T04:18:31.319Z"}
+{"level":"info","message":"Client disconnected: ALyJInK6HMp044LvAAAa","service":"manufacturing-management","timestamp":"2025-09-21T04:18:31.401Z"}
+{"level":"info","message":"Client connected: vqZpX_lI-7oFBelKAAAd","service":"manufacturing-management","timestamp":"2025-09-21T04:18:35.450Z"}
+{"level":"info","message":"Client disconnected: vqZpX_lI-7oFBelKAAAd","service":"manufacturing-management","timestamp":"2025-09-21T04:18:35.510Z"}
+{"level":"info","message":"Client connected: rrcNsiBsan1hPJDyAAAg","service":"manufacturing-management","timestamp":"2025-09-21T04:18:42.260Z"}
+{"level":"info","message":"Client disconnected: rrcNsiBsan1hPJDyAAAg","service":"manufacturing-management","timestamp":"2025-09-21T04:18:42.289Z"}
+{"level":"info","message":"Client disconnected: qoFg2OjHQQ2jk-rCAAAF","service":"manufacturing-management","timestamp":"2025-09-21T04:18:44.072Z"}
+{"level":"info","message":"Client disconnected: HC24QFy_1T3EXqeyAAAI","service":"manufacturing-management","timestamp":"2025-09-21T04:18:47.292Z"}
+{"level":"info","message":"Client disconnected: 1D-i8qw04fXY7_WyAAAL","service":"manufacturing-management","timestamp":"2025-09-21T04:18:50.025Z"}
+{"level":"info","message":"Client disconnected: Knk7tR4X4ok2evv_AAAO","service":"manufacturing-management","timestamp":"2025-09-21T04:18:51.616Z"}
+{"level":"info","message":"Client connected: Sj66gZdaeVqUeBC6AAAj","service":"manufacturing-management","timestamp":"2025-09-21T04:19:07.176Z"}
+{"level":"info","message":"Client disconnected: Sj66gZdaeVqUeBC6AAAj","service":"manufacturing-management","timestamp":"2025-09-21T04:19:07.311Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"manufacturing-management","timestamp":"2025-09-21T04:25:00.981Z"}
+{"level":"info","message":"Server running on port 5000","service":"manufacturing-management","timestamp":"2025-09-21T04:25:00.987Z"}
+{"level":"info","message":"Environment: development","service":"manufacturing-management","timestamp":"2025-09-21T04:25:00.987Z"}
+{"level":"info","message":"Client connected: RCFzeg6GzbQEISVqAAAC","service":"manufacturing-management","timestamp":"2025-09-21T04:25:09.110Z"}
+{"level":"info","message":"Client disconnected: RCFzeg6GzbQEISVqAAAC","service":"manufacturing-management","timestamp":"2025-09-21T04:25:09.280Z"}
+{"level":"info","message":"Client connected: QED8Zq3Zo5saNY6AAAAF","service":"manufacturing-management","timestamp":"2025-09-21T04:25:22.921Z"}
+{"level":"info","message":"Client disconnected: QED8Zq3Zo5saNY6AAAAF","service":"manufacturing-management","timestamp":"2025-09-21T04:25:23.104Z"}
+{"level":"info","message":"Client connected: LYQemiwg4x1ubkSkAAAI","service":"manufacturing-management","timestamp":"2025-09-21T04:25:39.204Z"}
+{"level":"info","message":"Client disconnected: LYQemiwg4x1ubkSkAAAI","service":"manufacturing-management","timestamp":"2025-09-21T04:25:39.223Z"}
